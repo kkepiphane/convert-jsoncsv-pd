@@ -1,0 +1,1 @@
+Ce script permet de convertir un fichier JSON en CSV. Il n'est pas nécessaire de connaître l'en-tête du fichier JSON. Installez pandas avec la commande pip install pandas. DataFrame permet de recréer l'en-tête du fichier CSV.
